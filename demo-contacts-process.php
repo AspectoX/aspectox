@@ -15,6 +15,6 @@
         }
          header("location:contacto.php");
     }else{
-        echo '<h3>error mensaje no enviado</h3>'
+        echo '<h3>error mensaje no enviado</h3>';
     }
 ?>
