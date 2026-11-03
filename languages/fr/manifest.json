@@ -1,0 +1,10 @@
+{
+    "type":  "langauge",
+    "title": "fr-FR",
+    "version": "1.0.0",
+    "creationDate": "2026-10-23",
+    "author": "LaraJoom",
+    "description": "Langue française.",
+    "lang_path":  "administrator/language",
+   "lang_path":  "language"
+}
